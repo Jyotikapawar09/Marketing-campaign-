@@ -1,1 +1,1 @@
-# Marketing-campaign-
+In this dataset identify and handle the missing values using filters,removes duplicate rows,convert date format to a consistent type ,rename colum header and fixed datatype 
